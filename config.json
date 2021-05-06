@@ -1,0 +1,7 @@
+{
+  "ops": {
+    "url": "http://172.6.0.10:9095/goldjet-ops-platform/v2/api-docs",
+    "prefix": "goldjet-ops-platform",
+    "only": []
+  }
+}
